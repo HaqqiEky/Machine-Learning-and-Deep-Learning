@@ -26,9 +26,9 @@ The dataset is split into training and testing sets with a 75-25 split ratio.
 
 4. Model Selection
 This project explores the performance of different machine learning models to predict customer churn. The models considered are:
-    - CatBoost Classifier
-    - XGBoost Classifier
-    - LightGBM Classifier
+    - Logistic Regression
+    - KNeighbors Classifier
+    - Random Forest Classifier
   
 5. Model Training and Evaluation
 Each model is trained using the training data and evaluated using various performance metrics such as accuracy. The goal is to determine the best-performing model.
